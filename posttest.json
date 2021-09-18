@@ -1,0 +1,45 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  The science that is concerned with the study of fungi is known as ________",
+      "answers": {
+        "a": "Phycology",
+        "b": "Pedology",
+        "c": "Mycology",
+        "d": "Etymology"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which of the following describe fungi ? ",
+      "answers": {
+        "a": "Eukaryotic heterotrophs",
+        "b": "Prokaryotic heterotrophs",
+        "c": "Eukaryotic autotrophs",
+        "d": "Prokaryotic autotrophs"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. The interaction of fungi cannot be _______.",
+      "answers": {
+        "a": "Parasitic",
+        "b": "Saprophytic",
+        "c": "Commensalic",
+        "d": "Mutualistic"
+      },
+          
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+
+      
+    
+  ]
+}

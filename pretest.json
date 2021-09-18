@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  Reproductive structures in which spores form are known as ________",
+      "answers": {
+        "a": "Sporangium",
+        "b": "Conidiophores",
+        "c": "Mycorrhizae",
+        "d": "Septa"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The fungi that show dimorphism is_________ ",
+      "answers": {
+        "a": "Ustilago maydis",
+        "b": "Blastomyces dermatitidis",
+        "c": "Histoplasma capsulatum",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. Certain fungi feed on dead organic matter. This explains which relationship ?",
+      "answers": {
+        "a": "Parasitism",
+        "b": "Saprophytism",
+        "c": "Commensalism",
+        "d": "Mutualism"
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  Which one is the pathogenic species ?",
+        "answers": {
+          "a": "Saccharomyces cerevisiae",
+          "b": "Cryptococcus neoformans",
+          "c": "Candida albicans",
+          "d": "Saccharomyces bayanus"
+        },
+
+            
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
